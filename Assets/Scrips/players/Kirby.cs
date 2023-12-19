@@ -7,7 +7,7 @@ public class Kirby : Player
     void Start()
     {
         speed = 5;
-        jumpHeight = 3;
+        jumpHeight = 12;
         maxJumps = 6;
     }
 }

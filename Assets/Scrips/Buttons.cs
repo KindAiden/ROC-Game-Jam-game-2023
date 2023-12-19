@@ -11,4 +11,18 @@ public class Buttons : MonoBehaviour
         SceneManager.LoadScene("Level");
         GameManager.character = Character;
     }
+
+    public void CharacterSelect()
+    {
+        SceneManager.LoadScene("pick character");
+    }
+    public void creddits()
+    {
+        SceneManager.LoadScene("creddits");
+    }
+
+    public void Quit()
+    {
+        Application.Quit();
+    }
 }
