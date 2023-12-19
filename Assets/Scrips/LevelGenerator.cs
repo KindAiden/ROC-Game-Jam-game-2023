@@ -26,12 +26,14 @@ public class LevelGenerator : MonoBehaviour
     [HideInInspector] public int slopeRightChance; //chance for an downward (right-facing) slope to appear
     [HideInInspector] public int cliffLeftChance; //chance for an upward (left-facing) cliff to appear
     [HideInInspector] public int cliffRightChance; //chance for an downward (right-facing) cliff to appear
+    [HideInInspector] public int holeChance; //chance for a hole to appear
     //[HideInInspector]  public int groundChance; 
     [HideInInspector] public Vector2Int groundRange; //minimum and maximum possible width of the ground (chunk mode only)
     [HideInInspector] public Vector2Int slopeLeftRange; //minimum and maximum possible size of the slope (chunk mode only)
     [HideInInspector] public Vector2Int slopeRightRange; //minimum and maximum possible size of the slope (chunk mode only)
     [HideInInspector] public Vector2Int cliffLeftRange; //minimum and maximum possible height of the cliff (chunk mode only)
     [HideInInspector] public Vector2Int cliffRightRange; //minimum and maximum possible height of the cliff (chunk mode only)
+    [HideInInspector] public Vector2Int holeRange; //minimum and maximum possible length of the hole (chunk mode only)
 
     public enum TileType
     {
@@ -83,19 +85,20 @@ public class LevelGenerator : MonoBehaviour
             CreateTile();
             position1 = currentPosition;
         }
+        /*
         if (camera.position.x - 50 - position2.x < 0)
         {
             currentPosition = position2;
             currentDirection = direction2;
             CreateTile();
             position2 = currentPosition;
-        }
+        }*/
     }
 
     public void CreateTile()
     {
         //get the tile left of the curent position to get the tiles we can choose to place
-        TileBase previousTile = tilemap.GetTile(new Vector3Int(currentPosition.x - direction1.x, currentPosition.y - direction1.y, 0));
+        TileBase previousTile = tilemap.GetTile(new Vector3Int(currentPosition.x - currentDirection.x, currentPosition.y - currentDirection.y, 0));
         TileType? previousTileType;
         try { previousTileType = tilesetReverse[previousTile]; }
         catch { previousTileType = null; }
@@ -162,11 +165,11 @@ public class LevelGenerator : MonoBehaviour
                 break;
 
             case TileType.LeftEdgeBottom:
-                CreateCave();
+                //CreateCave();
                 break;
 
             case TileType.Bottom:
-                CreateCave();
+                //CreateCave();
                 break;
 
             case TileType.RightEdgeBottom:
@@ -220,6 +223,7 @@ public class LevelGenerator : MonoBehaviour
             //place the bottom tile of the slope
             currentTile = tileset[TileType.SlopeUpBottom];
             tilemap.SetTile(new Vector3Int(currentPosition.x, currentPosition.y, 0), currentTile);
+            FillGround(new Vector2Int(0, 0));
 
             currentPosition.y += 1;
             //place the top tile of the slope
@@ -245,6 +249,7 @@ public class LevelGenerator : MonoBehaviour
             //place the bottom tile of the slope
             currentTile = tileset[TileType.SlopeDownBottom];
             tilemap.SetTile(new Vector3Int(currentPosition.x, currentPosition.y, 0), currentTile);
+            FillGround(new Vector2Int(0, 0));
             if (i < rand)
                 currentPosition += currentDirection;
         }
@@ -265,6 +270,7 @@ public class LevelGenerator : MonoBehaviour
         {
             currentPosition.y += 1;
             tilemap.SetTile(new Vector3Int(currentPosition.x, currentPosition.y, 0), currentTile);
+            FillGround(new Vector2Int(0, 0));
         }
         currentPosition.y += 1;
         //create the top tile of an edge
@@ -285,6 +291,7 @@ public class LevelGenerator : MonoBehaviour
         {
             currentPosition.y -= 1;
             tilemap.SetTile(new Vector3Int(currentPosition.x, currentPosition.y, 0), currentTile);
+            FillGround(new Vector2Int(0, 0));
         }
         currentPosition.y -= 1;
         //create the top tile of an edge
@@ -295,28 +302,51 @@ public class LevelGenerator : MonoBehaviour
 
     public void CreateGround()
     {
-        int rand = 0;
+        int rand = Random.Range(0, 100);
+        if (rand <= holeChance && chunkMode)
+        {
+            CreateHole();
+            return;
+        }
+
+        rand = 0;
         if (chunkMode)
             rand = Random.Range(groundRange.x, groundRange.y);
+
         for (int i = 0; i <= rand; i++)
         {
             //create the top tile
             currentTile = tileset[TileType.Top];
             tilemap.SetTile(new Vector3Int(currentPosition.x, currentPosition.y, 0), currentTile);
+            FillGround(new Vector2Int(0, 0));
             if (i < rand)
                 currentPosition += currentDirection;
         }
         FillGround(new Vector2Int(0, 0));
     }
 
-    public void CreateCave()
+    public void CreateHole()
     {
-        CreateGround();
-        Debug.Log("Cave");
+        int rand = Random.Range(groundRange.x, groundRange.y) + 1;
+
+        //create the edge tile
+        currentTile = tileset[TileType.RightEdgeTop];
+        tilemap.SetTile(new Vector3Int(currentPosition.x, currentPosition.y, 0), currentTile);
+        for (int i = 0; i < 21; i++)
+            tilemap.SetTile(new Vector3Int(currentPosition.x, currentPosition.y - i - 1, 0), tileset[TileType.RightEdge]);
+        
+        currentPosition.x += rand;
+
+        //create the edge tile
+        currentTile = tileset[TileType.LeftEdgeTop];
+        tilemap.SetTile(new Vector3Int(currentPosition.x, currentPosition.y, 0), currentTile);
+        for (int i = 0; i < 21; i++)
+            tilemap.SetTile(new Vector3Int(currentPosition.x, currentPosition.y - i - 1, 0), tileset[TileType.LeftEdge]);
     }
 
     public void FillGround(Vector2Int offset)
     {
-        tilemap.BoxFill(new Vector3Int(currentPosition.x, currentPosition.y - 1, 0), tileset[TileType.Ground], currentPosition.x + offset.x, currentPosition.y - 100 + offset.y, currentPosition.x + offset.x, currentPosition.y - 1 + offset.y);
+        for (int i = 0; i < 20; i++)
+            tilemap.SetTile(new Vector3Int(currentPosition.x + offset.x, currentPosition.y - 1 - i + offset.y, 0), tileset[TileType.Ground]);
     }
 }
