@@ -40,5 +40,10 @@ public class CameraBehavior : MonoBehaviour
             else
                 obj.SetActive(false);
         }
+
+        if (transform.position.y - Player.position.y > 8)
+        {
+            GameManager.GameOver();
+        }
     }
 }
