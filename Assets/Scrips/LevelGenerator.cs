@@ -303,7 +303,7 @@ public class LevelGenerator : MonoBehaviour
     public void CreateGround()
     {
         int rand = Random.Range(0, 100);
-        if (rand <= holeChance && chunkMode)
+        if (rand < holeChance && chunkMode)
         {
             CreateHole();
             return;
