@@ -2693,6 +2693,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2111575772}
   - component: {fileID: 2111575771}
+  - component: {fileID: 2111575773}
   m_Layer: 0
   m_Name: Grid
   m_TagString: Untagged
@@ -2728,6 +2729,39 @@ Transform:
   - {fileID: 284106628}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2111575773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2111575770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 840c51b4318efee4cb0554ea325a105e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  camera: {fileID: 519420032}
+  Tileset: 
+  direction1: {x: 1, y: 0}
+  direction2: {x: -1, y: 0}
+  currentDirection: {x: 0, y: 0}
+  position1: {x: 0, y: -2}
+  position2: {x: 0, y: -2}
+  currentPosition: {x: 0, y: 0}
+  tilemap: {fileID: 284106630}
+  currentTile: {fileID: 0}
+  distance: 0
+  chunkMode: 0
+  slopeLeftChance: 0
+  slopeRightChance: 0
+  cliffLeftChance: 0
+  cliffRightChance: 0
+  groundRange: {x: 0, y: 0}
+  slopeLeftRange: {x: 0, y: 0}
+  slopeRightRange: {x: 0, y: 0}
+  cliffLeftRange: {x: 0, y: 0}
+  cliffRightRange: {x: 0, y: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
