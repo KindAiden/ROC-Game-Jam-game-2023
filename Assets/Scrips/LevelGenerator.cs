@@ -1,9 +1,6 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
-using static UnityEditor.Experimental.GraphView.GraphView;
-using UnityEngine.UIElements;
 
 public class LevelGenerator : MonoBehaviour
 {
