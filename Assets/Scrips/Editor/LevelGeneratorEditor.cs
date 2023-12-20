@@ -26,5 +26,6 @@ public class LevelGeneratorEditor : Editor
         generator.cliffLeftRange = EditorGUILayout.Vector2IntField("Upwards cliff height", generator.cliffLeftRange);
         generator.cliffRightRange = EditorGUILayout.Vector2IntField("Downwards cliff height", generator.cliffRightRange);
         generator.holeRange = EditorGUILayout.Vector2IntField("Hole length", generator.holeRange);
+        generator.enemyRange = EditorGUILayout.Vector2IntField("time before spawing a new enemy", generator.enemyRange);
     }
 }

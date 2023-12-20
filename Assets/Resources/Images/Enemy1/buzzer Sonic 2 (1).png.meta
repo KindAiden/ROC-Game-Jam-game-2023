@@ -1,0 +1,2789 @@
+fileFormatVersion: 2
+guid: ecd989a606b288b448da89c6463fd14b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 42
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 850
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe98b7d2b057a9f4b9f6013377270ee3
+      internalID: 1352062976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 806
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6694c63c41a7c414799b70c706ff33df
+      internalID: 1480718529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 806
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483b9b4c8bb84b94bb59b67446c0416b
+      internalID: 1016312607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 806
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd130201e9383e4cb9b73c3b2cdffd3
+      internalID: 877831206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 806
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba621a3cfe65f6c438e3560c77605773
+      internalID: -156423792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 806
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff811198f2c5eb43bab5ece22e0ed2b
+      internalID: -513815927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 806
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01523b561281f254eb9a13b3c616129b
+      internalID: 1792160459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 802
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd06524d80acd0949a5d0de2632d8c04
+      internalID: -2068871694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 797
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed37fe97265c055409d347b864c62ab4
+      internalID: -831598286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 764
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3778a5b9393cfcb46b60bf1e0dd55d34
+      internalID: -162238326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 706
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388a7673f1e1f9847b539aeacda850e0
+      internalID: -262658817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 706
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd99779e390e7e54ba7fc04c1b79d14f
+      internalID: 1126736649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 706
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0398a203a902da54c8ea09f3ab8d4e47
+      internalID: -844383956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 721
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7f8661a151d4a44bf9e905d18d1d83
+      internalID: -148748439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 721
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4f186f28f77b044b5c7c4fe5d29163
+      internalID: -1925110585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 721
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc107949aee37824e92416d4f0bb80b8
+      internalID: -1420139840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 676
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8564ab9cdc423fd4e913c905ef0c4ac5
+      internalID: -2086207715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 628
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28323c846a41da44e8d7d496fffd9a06
+      internalID: 1842813541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 628
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c9480c865b57144872b3c672461025
+      internalID: 1623841624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 628
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a10db0af6c25543a6def101bcfad22
+      internalID: 415140926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 628
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d090dfa38b9ed5c48ba677d1ede4b620
+      internalID: -1899106177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 592
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fd2594b5755f14580c2fdc05684b77
+      internalID: 429965344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 590
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f28bfe7da99544b85c7f7a38dea8a2
+      internalID: -1814704329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 592
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5663946df2937d8459a5a20f3a409dd5
+      internalID: -1312660124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 592
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b47aaeef967bb45921fa169bc3fce7
+      internalID: 1685447474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 592
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b52cc9c141bb946bd506ca877ca977
+      internalID: -853008331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 592
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d18e5d9f6e68a44a93e8eb54a181211
+      internalID: -411335147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 590
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5af31c14b514dd478a3ebcdcf27d9a0
+      internalID: 684902570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 524
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a34aa6c8291f544a81aa8c92f92dde
+      internalID: -486879402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 524
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feff3edcaa727ac48bfaa69b6e2d1679
+      internalID: -1719415409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 524
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60474a65b9488144a87183cc5497833
+      internalID: 106834260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 570
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df5f23403d205643a53d68e33654caa
+      internalID: 943758527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 506
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad254001f215fe43bf5865e57fb82c6
+      internalID: 1023565475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 471
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6715164291ae530488b610acac1b71bb
+      internalID: -1476787107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 470
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3783554c0aaced47976e557132f59e6
+      internalID: 2017511167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 447
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d214084f8e5e4b46ba863adf311f6b1
+      internalID: 1967710608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 450
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f89fe8b81974a04683345d32825418a
+      internalID: -1005511367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 447
+        width: 59
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572170ae8020e834cb737c9e6afff527
+      internalID: 2106929763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 452
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ace98d98c3ce724eb7c85d91068a749
+      internalID: 1551265556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 452
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c9a227ea6d2c9409f2a6f159fd6f1a
+      internalID: -1662865700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 447
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18968172870535d418c316249b6be569
+      internalID: 340334729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 452
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131fa91ea2bc3d1489dd8059745067f9
+      internalID: -419149680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 452
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995e3f9f5d4edad4a85f0dc596b3ffea
+      internalID: -701903493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 384
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f68b34b48fd5f04894db3c9323b7d2f
+      internalID: -724972799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 384
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0850077f44a40a74c92148cbf656d123
+      internalID: -335919577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 384
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9d925a9719d534fbbe6a6e00ee123f
+      internalID: 111908328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 384
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902b0982a4097ae49800f43581eff0c5
+      internalID: 1908783466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 384
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386dcccf629ade649a7de5002c8241e2
+      internalID: -2071249642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 384
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cfc849c2ff6ad419cd8c82e1f998b1
+      internalID: -314582543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 384
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433ba699d098c394798d471a4c1b0d53
+      internalID: -1687122850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 361
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44670cf0b4f3922418bb6aeb425829f1
+      internalID: 686998190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_51
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 364
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f62a60758e5034ebb51a8c1026e950
+      internalID: 1250738804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 366
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a14d8bb94d21e4f826de05ff13c833
+      internalID: 1967891409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 366
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7daf3e22447718498094d272062db00
+      internalID: -721362030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 366
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b3fa82be94cdc4a97827de412e6d1b
+      internalID: 1838495853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 366
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755f5f9ccd02ad44f8d0a2af95eb995a
+      internalID: -1089919315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 366
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e7473b79fb8594b9d6e8d69104c37d
+      internalID: 1042343065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 366
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20097c9945bde94eb9fe0d5264265f5
+      internalID: 310416050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_58
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 298
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8a9cf01c22f0b4186947fc01de9157
+      internalID: 40896374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_59
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 298
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a274bf2bfd2a7d4d8d676f6642a0843
+      internalID: 387888212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 298
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4e14748448eb9439c6d4fafba98b1c
+      internalID: 258826381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_61
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 354
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58a65556fe14254ab6325f4b57ab853
+      internalID: 1541075085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_62
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 346
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c4603a127a31d4180487dc83cae668
+      internalID: 1942270321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_63
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 298
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4042afa18cd80b84dae9cdd6f0d8d94c
+      internalID: -779242398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 280
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e64a4c7bd6c6742b24b3995e2ad277
+      internalID: 1072101607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_65
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 278
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab009b89e3677a04393d8c63b5aec35c
+      internalID: -621899560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_66
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 278
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0008c22c56e03874487c2fa3328b7e9d
+      internalID: -2112327102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_67
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 244
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7c0d32d7c90ee4b82d391273d90b5d
+      internalID: -1830634457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_68
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 246
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc05f308a9f46040ba469844d76f474
+      internalID: 1991446818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_69
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 260
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb82415f005c2e4e9214368a1590506
+      internalID: -1469973577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_70
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 244
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c0b63ef0406b84f88682a0c9f4bbdf
+      internalID: 303646671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_71
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 226
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc771cf0ad9d92948a5dd89ffd355c7c
+      internalID: -1432400399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04eb176537d6d64989b1198193391e0
+      internalID: 449745021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_73
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 226
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680fdf5ce10b9a44480af6e6a57672ef
+      internalID: 819701598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_74
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 226
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86debe397029e4d40bc4d38c34551a75
+      internalID: -1942945708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_75
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 226
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eb766869238bd4d841a9e9d7e3b92f
+      internalID: 1691410270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_76
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 226
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9592111008d22fb43abc6377f8c66fd4
+      internalID: 267794933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 158
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45dd585a702dce40a30b2409e83d798
+      internalID: -655829915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_78
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 158
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a2a1da37d3fa34dbd20199860a41a5
+      internalID: -674722803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_79
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 158
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024c21eb3fd1cd744b4c376dd1ecd772
+      internalID: 124927674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 138
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f942803994f5d5048ba78a54d27cfe0a
+      internalID: 982715279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_81
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 138
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b67a545b5df47449a1b05168cb35e4
+      internalID: -223475816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_82
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 140
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb2870bfb0934142a40bc125fae0c35
+      internalID: -1223609504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_83
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 140
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c075f0508c51a246b5de7eb77b54c2c
+      internalID: -629037276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_84
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 140
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99ab3b6c93cdd1438139a94a11db52c
+      internalID: -1573553301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_85
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 140
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48c0c16ca353e342b473bbcdd4fb897
+      internalID: 1795101193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_86
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 138
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0164874f80886384cbfe59df4c540732
+      internalID: -612368976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_87
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb95062e4a6f7e4da83cdb172b6cc04
+      internalID: 1039044392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_88
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 104
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca69f646df601ec4b8b36f84ee0dbc7f
+      internalID: -995808928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_89
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 104
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16119146f80b1184c859ebdebe58a4d0
+      internalID: 654018709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_90
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7bf0a95ae95cb4e80bef10178ab7e3
+      internalID: 1241859989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_91
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6a93febefb3324bbf53bb66cc4d070
+      internalID: -1470006062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_92
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 86
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0521d03fab6a94883f6737b8cc94ff
+      internalID: 1450120252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_93
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 50
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f993e1bee6d361b4ea0b0dd42c993fe9
+      internalID: 1968002249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_94
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 51
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd48086d3a5cfdb458a81c65bcb4dfe8
+      internalID: -1538766779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_95
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 50
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eab68fc8920519489f62881c2b5ec37
+      internalID: -961658282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_96
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 84
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc217cfbb5e4c84c8a668aab91877ee
+      internalID: -1709232950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_97
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdddfe8b4f7fa4d4fa7131b2f4796c6f
+      internalID: 634654116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_98
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 74
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1040a2f4a6504e41a87ec6d6fc2cea7
+      internalID: 201658224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_99
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 50
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6e94e17e05f6346afbb46f4c208150
+      internalID: -1156785205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 542
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b5b3de132ac7346b85572ce1c0bdee
+      internalID: 1215574098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_101
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 25
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddc040f7f2f4724ba570a974f774b7a
+      internalID: 948552228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_102
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 25
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8617008b122ddbe48b4e455e25b716d7
+      internalID: 1309065307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_103
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 25
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90ba11152880754fbdf8f5994d0f8ec
+      internalID: -802357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_104
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 25
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274f33f9d7d81524785aac90a5de21fe
+      internalID: -1479140474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_105
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 23
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad9b2acdb8c2b64788d3cf98afbae2e
+      internalID: 1804915941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_106
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 23
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7631531675caca34aaf127aff0186298
+      internalID: 2124072017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_107
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 23
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e31006a74941d4ca37d934a871d6a6
+      internalID: -201191454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_108
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 23
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48c971d67032c947a6b5b54b451f02a
+      internalID: -432071828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_109
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 25
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2942c82c6a25ab747ab66938981f82e9
+      internalID: -586058314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_110
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 25
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c828f72ca45a0bc4ea165964f8871790
+      internalID: -736758081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_111
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 23
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff268bbee5acc145bec04186bbddd5f
+      internalID: 1617420413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_112
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 25
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3515702b169480e4081eb94ec2072355
+      internalID: -1835509782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_113
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 23
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf6ae01e9de40642b1b1adf74b3c568
+      internalID: 1617995611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 542
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e065e3db2b90de04a9b39b0b791d859f
+      internalID: -2011732671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_115
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4a0361f3d0c5c4c9493e3eb5572628
+      internalID: -180784180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_116
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 11
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf097371884f52418b2808d8cfd0109
+      internalID: -1037821479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_117
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 11
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0dc1363176119418217881fe2010ab
+      internalID: 1729570337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_118
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 11
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beb4dd70b0846f4c888a50a4e3ff20b
+      internalID: 1662944400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_119
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 11
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef14736cc1e27df40a70e502e85ec39d
+      internalID: 394388068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzer Sonic 2 (1)_120
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 11
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde732fd8ec9bdd4f8f00385c50118bb
+      internalID: -11193240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      buzzer Sonic 2 (1)_0: 1352062976
+      buzzer Sonic 2 (1)_1: 1480718529
+      buzzer Sonic 2 (1)_10: -262658817
+      buzzer Sonic 2 (1)_100: 1215574098
+      buzzer Sonic 2 (1)_101: 948552228
+      buzzer Sonic 2 (1)_102: 1309065307
+      buzzer Sonic 2 (1)_103: -802357
+      buzzer Sonic 2 (1)_104: -1479140474
+      buzzer Sonic 2 (1)_105: 1804915941
+      buzzer Sonic 2 (1)_106: 2124072017
+      buzzer Sonic 2 (1)_107: -201191454
+      buzzer Sonic 2 (1)_108: -432071828
+      buzzer Sonic 2 (1)_109: -586058314
+      buzzer Sonic 2 (1)_11: 1126736649
+      buzzer Sonic 2 (1)_110: -736758081
+      buzzer Sonic 2 (1)_111: 1617420413
+      buzzer Sonic 2 (1)_112: -1835509782
+      buzzer Sonic 2 (1)_113: 1617995611
+      buzzer Sonic 2 (1)_114: -2011732671
+      buzzer Sonic 2 (1)_115: -180784180
+      buzzer Sonic 2 (1)_116: -1037821479
+      buzzer Sonic 2 (1)_117: 1729570337
+      buzzer Sonic 2 (1)_118: 1662944400
+      buzzer Sonic 2 (1)_119: 394388068
+      buzzer Sonic 2 (1)_12: -844383956
+      buzzer Sonic 2 (1)_120: -11193240
+      buzzer Sonic 2 (1)_13: -148748439
+      buzzer Sonic 2 (1)_14: -1925110585
+      buzzer Sonic 2 (1)_15: -1420139840
+      buzzer Sonic 2 (1)_16: -2086207715
+      buzzer Sonic 2 (1)_17: 1842813541
+      buzzer Sonic 2 (1)_18: 1623841624
+      buzzer Sonic 2 (1)_19: 415140926
+      buzzer Sonic 2 (1)_2: 1016312607
+      buzzer Sonic 2 (1)_20: -1899106177
+      buzzer Sonic 2 (1)_21: 429965344
+      buzzer Sonic 2 (1)_22: -1814704329
+      buzzer Sonic 2 (1)_23: -1312660124
+      buzzer Sonic 2 (1)_24: 1685447474
+      buzzer Sonic 2 (1)_25: -853008331
+      buzzer Sonic 2 (1)_26: -411335147
+      buzzer Sonic 2 (1)_27: 684902570
+      buzzer Sonic 2 (1)_28: -486879402
+      buzzer Sonic 2 (1)_29: -1719415409
+      buzzer Sonic 2 (1)_3: 877831206
+      buzzer Sonic 2 (1)_30: 106834260
+      buzzer Sonic 2 (1)_31: 943758527
+      buzzer Sonic 2 (1)_32: 1023565475
+      buzzer Sonic 2 (1)_33: -1476787107
+      buzzer Sonic 2 (1)_34: 2017511167
+      buzzer Sonic 2 (1)_35: 1967710608
+      buzzer Sonic 2 (1)_36: -1005511367
+      buzzer Sonic 2 (1)_37: 2106929763
+      buzzer Sonic 2 (1)_38: 1551265556
+      buzzer Sonic 2 (1)_39: -1662865700
+      buzzer Sonic 2 (1)_4: -156423792
+      buzzer Sonic 2 (1)_40: 340334729
+      buzzer Sonic 2 (1)_41: -419149680
+      buzzer Sonic 2 (1)_42: -701903493
+      buzzer Sonic 2 (1)_43: -724972799
+      buzzer Sonic 2 (1)_44: -335919577
+      buzzer Sonic 2 (1)_45: 111908328
+      buzzer Sonic 2 (1)_46: 1908783466
+      buzzer Sonic 2 (1)_47: -2071249642
+      buzzer Sonic 2 (1)_48: -314582543
+      buzzer Sonic 2 (1)_49: -1687122850
+      buzzer Sonic 2 (1)_5: -513815927
+      buzzer Sonic 2 (1)_50: 686998190
+      buzzer Sonic 2 (1)_51: 1250738804
+      buzzer Sonic 2 (1)_52: 1967891409
+      buzzer Sonic 2 (1)_53: -721362030
+      buzzer Sonic 2 (1)_54: 1838495853
+      buzzer Sonic 2 (1)_55: -1089919315
+      buzzer Sonic 2 (1)_56: 1042343065
+      buzzer Sonic 2 (1)_57: 310416050
+      buzzer Sonic 2 (1)_58: 40896374
+      buzzer Sonic 2 (1)_59: 387888212
+      buzzer Sonic 2 (1)_6: 1792160459
+      buzzer Sonic 2 (1)_60: 258826381
+      buzzer Sonic 2 (1)_61: 1541075085
+      buzzer Sonic 2 (1)_62: 1942270321
+      buzzer Sonic 2 (1)_63: -779242398
+      buzzer Sonic 2 (1)_64: 1072101607
+      buzzer Sonic 2 (1)_65: -621899560
+      buzzer Sonic 2 (1)_66: -2112327102
+      buzzer Sonic 2 (1)_67: -1830634457
+      buzzer Sonic 2 (1)_68: 1991446818
+      buzzer Sonic 2 (1)_69: -1469973577
+      buzzer Sonic 2 (1)_7: -2068871694
+      buzzer Sonic 2 (1)_70: 303646671
+      buzzer Sonic 2 (1)_71: -1432400399
+      buzzer Sonic 2 (1)_72: 449745021
+      buzzer Sonic 2 (1)_73: 819701598
+      buzzer Sonic 2 (1)_74: -1942945708
+      buzzer Sonic 2 (1)_75: 1691410270
+      buzzer Sonic 2 (1)_76: 267794933
+      buzzer Sonic 2 (1)_77: -655829915
+      buzzer Sonic 2 (1)_78: -674722803
+      buzzer Sonic 2 (1)_79: 124927674
+      buzzer Sonic 2 (1)_8: -831598286
+      buzzer Sonic 2 (1)_80: 982715279
+      buzzer Sonic 2 (1)_81: -223475816
+      buzzer Sonic 2 (1)_82: -1223609504
+      buzzer Sonic 2 (1)_83: -629037276
+      buzzer Sonic 2 (1)_84: -1573553301
+      buzzer Sonic 2 (1)_85: 1795101193
+      buzzer Sonic 2 (1)_86: -612368976
+      buzzer Sonic 2 (1)_87: 1039044392
+      buzzer Sonic 2 (1)_88: -995808928
+      buzzer Sonic 2 (1)_89: 654018709
+      buzzer Sonic 2 (1)_9: -162238326
+      buzzer Sonic 2 (1)_90: 1241859989
+      buzzer Sonic 2 (1)_91: -1470006062
+      buzzer Sonic 2 (1)_92: 1450120252
+      buzzer Sonic 2 (1)_93: 1968002249
+      buzzer Sonic 2 (1)_94: -1538766779
+      buzzer Sonic 2 (1)_95: -961658282
+      buzzer Sonic 2 (1)_96: -1709232950
+      buzzer Sonic 2 (1)_97: 634654116
+      buzzer Sonic 2 (1)_98: 201658224
+      buzzer Sonic 2 (1)_99: -1156785205
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

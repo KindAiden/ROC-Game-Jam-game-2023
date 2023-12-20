@@ -1,0 +1,2415 @@
+fileFormatVersion: 2
+guid: 2386f83bf57944645a872a495cf876f8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 37
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 560
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115f2a1385d12b74084b54954d69a83e
+      internalID: -321726695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 560
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dc4badc4a0f2a40ab3250048a5eb2b
+      internalID: -218851902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 560
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e7c14f306224745b39375b8197e10f
+      internalID: -360013493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 557
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4199bee0c169d7442a57c3ab0fed58f2
+      internalID: -1822122462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 557
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce7e2dee1f6f12409419d9863a9b171
+      internalID: -1323590168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 557
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a85bc473079bf049a8626dbe89ed8d6
+      internalID: 261606585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 558
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9fd51ff20cd9941b5c57211664bc1c
+      internalID: -1925629581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 558
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749389e3be4f42146bb16516ba17583d
+      internalID: -1732033947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 558
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ab3131ee93bf645bcdb0985ebca507
+      internalID: -1516657456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 559
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c18c59c7542cbb42a18b7b07c2ab10e
+      internalID: 318486332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 556
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a908c266cd74524890608d37a175e41
+      internalID: -834404627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 560
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c77cfc4e2f47da49b97f339f0a7bffe
+      internalID: -920094972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 544
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d82dffb31d6a5144ac5ba86a690e0bc
+      internalID: 1880920294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 545
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d312a53624c3b1046a8cccda95d8e691
+      internalID: 2143402812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_14
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 545
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5acfed8132b7042adc3b44e79a66a4
+      internalID: -860284357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_15
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 560
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686ddc7d4e9af5c4984ce7bd4d7220ef
+      internalID: 1714659835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_16
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 560
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d728a40f4a9d44885c2f725db07fb3
+      internalID: 1576663981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 505
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4019fa57948bfa4ab46692bdced77e4
+      internalID: -1237235678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 505
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1658e1a9b1b6049a194fa813eacd2c
+      internalID: -1598487238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 505
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ab5c96c838cbe4c8b9eeaaa0e95f78
+      internalID: -569440335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 505
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38d544e5d4c7304ca93b33f3e7f6a87
+      internalID: 637993052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 505
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cff37aa40e9b1744b09fbbc39e3f870
+      internalID: 735435643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 505
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed30eaa0f390f745aeb701af6c05f29
+      internalID: -1968886077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 451
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65061746d003eb845a12ecc0c6c6eac3
+      internalID: -2087868538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 452
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bee005b22a8b6940833f65144de7647
+      internalID: 1528241230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 450
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f3c1fd8889c404ba0f941cdcbeb897
+      internalID: -569297064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 397
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00477870190aabb42b86dfc4e6bda359
+      internalID: -1299291315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_27
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 397
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137c330a107496a4084d70b22d3a46b4
+      internalID: -99347698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 397
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe560c645987164b9bfec87f0a429c3
+      internalID: 1115362415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 397
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64016d56864823848bebb22d49eb6e4a
+      internalID: -4095350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_30
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 397
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcdc6d936bface4f9cf202b8f089169
+      internalID: 685195252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 397
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad35273954764a4d9be58d9ebfb6a0f
+      internalID: -457179747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_32
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 397
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4565e0ce121e80a4797f7db7be3a709b
+      internalID: 1976121941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_33
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 397
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501b8ad8c0ba45c4dac63d2783cc9bf3
+      internalID: -749434548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_34
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 397
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707d5dc7a1cbb324e86cfa7571ed4378
+      internalID: 1548665456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 397
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98e9191a7852a94fb94743b31e09ba3
+      internalID: 200409688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_36
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 397
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5510e4256fc24b4faaa90db8f9d9aa2
+      internalID: 338058672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_37
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 397
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9699ba11b100a9540ab68075de1d1c79
+      internalID: 494238003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_38
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 397
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564b35dc00325f14b97bebb75c5d48ad
+      internalID: -1738093701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_39
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 396
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45ccd609efe6984aa3279b68038435a
+      internalID: 1088773372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_40
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 396
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f403401f8e77bfe43beca4d8f38458d0
+      internalID: -1162652013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_41
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 395
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4322f2824261e542b5c77c8e2da60ce
+      internalID: -196510883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 332
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c8f0ea493858842a6e1b043b4e8647
+      internalID: 1157603382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 331
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b751b3b7d5750e408b243f5e1526851
+      internalID: -1927300642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_44
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 333
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845fd6608aa26474a9f1345d0e96f7be
+      internalID: -11088334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 332
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a99116b64980640b7f5fb0ccb7cb19
+      internalID: -931655728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_46
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 332
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0206a3c0ea611314c820050b66dda66e
+      internalID: 298155668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_47
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 332
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4be5d97de5ce34f865117f017847cb
+      internalID: -1515049519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_48
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 332
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6192b7542c2a345bf10026c9351caf
+      internalID: -966736004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_49
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 332
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3589bf31aa126024b800b52fa3b04e5b
+      internalID: -1350670608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_50
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 332
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590e85f927866c5459581e9165e48f63
+      internalID: 701763260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_51
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 332
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87903d766818b741ac1299170214147
+      internalID: -1658651843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_52
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 332
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148cb3b7c2703ce4ab1af11798fbf8d9
+      internalID: -1062733982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_53
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 332
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dff24439adcd9244b97b8d832bb944d
+      internalID: -159320973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_54
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 332
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b762dd7b11292e448cf8bc952e72be5
+      internalID: 742012782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_55
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 332
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a89fa99ff87fd48956ae0e4a442664
+      internalID: 640099592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 329
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00b19b165ceccf45947b704c9e6b154
+      internalID: 693936887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_57
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 330
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2604ef81f2d253e4d979b01d9766c889
+      internalID: 1758088485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_58
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 329
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d9978a7b5524e45a82acbae11048a0
+      internalID: -440300542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_59
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 321
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cae6a8aff118e647ac1a7bb9a4b6255
+      internalID: 1027600570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_60
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 321
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ae958ccf59c2f4991b2a931d5d96e4
+      internalID: -506759392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_61
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 282
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e8a3b2d66d41445849fb4b2eaf089c
+      internalID: -468022437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_62
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 270
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced6f2aa39aa3054bbf41a2298f08e31
+      internalID: 216340785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 258
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00c382cc8f547242830ac1fab40c9dd
+      internalID: -324538697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_64
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 279
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4235aeae670db8246a2443075b6dca90
+      internalID: -6771111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_65
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667abee61893c8040aa94431e2d856df
+      internalID: 371020361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_66
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 280
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25852ee5276a4254f9df8fc47362b3f1
+      internalID: -823166964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_67
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 279
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e04740d5ea2c9744935526af6cd0379
+      internalID: 476894074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_68
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 278
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca23752b11a26748a88f7e84f10d3d3
+      internalID: -1709312623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_69
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 281
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933cf942400f1624ba6fecec37c1bf28
+      internalID: -826291587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 195
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a845cac1d6544de4782b73c53a6f3e5f
+      internalID: 2102039031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_71
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 195
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f570e80a15b2c7b4a805acdf8f4b056d
+      internalID: 2091489192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_72
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 195
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b427a7b513b46047a08baaf644b5861
+      internalID: 1979493986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_73
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 194
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0057cc5e76c294743aa082f7637a755f
+      internalID: -625842162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_74
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 192
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7036ad1c0ce314e94a26050cc615b4
+      internalID: -1970679947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_75
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 194
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83976981f999d142b3fa3cd96322116
+      internalID: 758660296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_76
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 194
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9badecc4cd3976040a5cfa400f1a50c8
+      internalID: -342171023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_77
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 124
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171077d6242ece442be56f66bef9b39b
+      internalID: 1237923622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_78
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 149
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffce7f49d15f4fc458c853eeb72b97ce
+      internalID: 1163069196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_79
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 124
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a775abe43e61840849fae440e04b54
+      internalID: -249189868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_80
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 125
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251e18541e79d1244b1c6cfef0f00eb0
+      internalID: -1133962832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_81
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 124
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc94c48b5ba1e2a4bac576d5ca2bdcd1
+      internalID: 1950989943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_82
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 125
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283172c0a63b0cf428b027da4a29256b
+      internalID: 1172293294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_83
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 124
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c53d3c83e17a2d499dcddce7bdd4b87
+      internalID: 1001731454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_84
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 127
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecff642c453b2994d897023521742ad4
+      internalID: -1720653223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_85
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 128
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158712f1a8b1a36429a7f627b956892b
+      internalID: 1450244862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_86
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 79
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c999c63a9e17947958386abf64119c
+      internalID: -458520683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_87
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 79
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0a5888111a4cb459aeea64a23d6186
+      internalID: -1807899487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_88
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 79
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4567af0415870c479982387d49c9904
+      internalID: 1079555454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_89
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 78
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd7d8e5b211de84baae219fe8508c71
+      internalID: 1558053207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 77
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57722b5833b4964297c6d1428d12a79
+      internalID: -1368638575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_91
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 78
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8f2a09c78eb8c47b2ada6b1d243d30
+      internalID: 782455270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_92
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 79
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af243caa4f0ed74099b0c8d9e548edc
+      internalID: -957232500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_93
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 79
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ead8c8b96f2024ea251ec5a159fb03
+      internalID: -193310995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_94
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 78
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dee5275a3b10e54bad0eb29e776b141
+      internalID: 1585776705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_95
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 14
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aa39bd462676640b2bd9e7618192df
+      internalID: -1681698675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_96
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 15
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7116a01fd2ba384f9c8f08a8b0e977f
+      internalID: 1323156811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 15
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846deaeadd4d88b4f9a7ec7d16998650
+      internalID: 1610377335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_98
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 10
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ead23c94c9e39f479850790a6fe95a2
+      internalID: 562708222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_99
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 41
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fa0a059d14f0144abcecc618f0a2a4
+      internalID: 1619616707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_100
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 38
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65c81d4b6fe9a240a2b5bdb8f5c15fd
+      internalID: -48172036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_101
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae60628648c1acc4a928914ada0566c8
+      internalID: 1307416457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_102
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 15
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755fb41cca6fbf34486ab2cdf8a81a12
+      internalID: -210819812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waddel dee sprite sheet 2_103
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 11
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c381e85fd84a01469ecd0af26d8728e
+      internalID: 1309292824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      waddel dee sprite sheet 2_0: -321726695
+      waddel dee sprite sheet 2_1: -218851902
+      waddel dee sprite sheet 2_10: -834404627
+      waddel dee sprite sheet 2_100: -48172036
+      waddel dee sprite sheet 2_101: 1307416457
+      waddel dee sprite sheet 2_102: -210819812
+      waddel dee sprite sheet 2_103: 1309292824
+      waddel dee sprite sheet 2_11: -920094972
+      waddel dee sprite sheet 2_12: 1880920294
+      waddel dee sprite sheet 2_13: 2143402812
+      waddel dee sprite sheet 2_14: -860284357
+      waddel dee sprite sheet 2_15: 1714659835
+      waddel dee sprite sheet 2_16: 1576663981
+      waddel dee sprite sheet 2_17: -1237235678
+      waddel dee sprite sheet 2_18: -1598487238
+      waddel dee sprite sheet 2_19: -569440335
+      waddel dee sprite sheet 2_2: -360013493
+      waddel dee sprite sheet 2_20: 637993052
+      waddel dee sprite sheet 2_21: 735435643
+      waddel dee sprite sheet 2_22: -1968886077
+      waddel dee sprite sheet 2_23: -2087868538
+      waddel dee sprite sheet 2_24: 1528241230
+      waddel dee sprite sheet 2_25: -569297064
+      waddel dee sprite sheet 2_26: -1299291315
+      waddel dee sprite sheet 2_27: -99347698
+      waddel dee sprite sheet 2_28: 1115362415
+      waddel dee sprite sheet 2_29: -4095350
+      waddel dee sprite sheet 2_3: -1822122462
+      waddel dee sprite sheet 2_30: 685195252
+      waddel dee sprite sheet 2_31: -457179747
+      waddel dee sprite sheet 2_32: 1976121941
+      waddel dee sprite sheet 2_33: -749434548
+      waddel dee sprite sheet 2_34: 1548665456
+      waddel dee sprite sheet 2_35: 200409688
+      waddel dee sprite sheet 2_36: 338058672
+      waddel dee sprite sheet 2_37: 494238003
+      waddel dee sprite sheet 2_38: -1738093701
+      waddel dee sprite sheet 2_39: 1088773372
+      waddel dee sprite sheet 2_4: -1323590168
+      waddel dee sprite sheet 2_40: -1162652013
+      waddel dee sprite sheet 2_41: -196510883
+      waddel dee sprite sheet 2_42: 1157603382
+      waddel dee sprite sheet 2_43: -1927300642
+      waddel dee sprite sheet 2_44: -11088334
+      waddel dee sprite sheet 2_45: -931655728
+      waddel dee sprite sheet 2_46: 298155668
+      waddel dee sprite sheet 2_47: -1515049519
+      waddel dee sprite sheet 2_48: -966736004
+      waddel dee sprite sheet 2_49: -1350670608
+      waddel dee sprite sheet 2_5: 261606585
+      waddel dee sprite sheet 2_50: 701763260
+      waddel dee sprite sheet 2_51: -1658651843
+      waddel dee sprite sheet 2_52: -1062733982
+      waddel dee sprite sheet 2_53: -159320973
+      waddel dee sprite sheet 2_54: 742012782
+      waddel dee sprite sheet 2_55: 640099592
+      waddel dee sprite sheet 2_56: 693936887
+      waddel dee sprite sheet 2_57: 1758088485
+      waddel dee sprite sheet 2_58: -440300542
+      waddel dee sprite sheet 2_59: 1027600570
+      waddel dee sprite sheet 2_6: -1925629581
+      waddel dee sprite sheet 2_60: -506759392
+      waddel dee sprite sheet 2_61: -468022437
+      waddel dee sprite sheet 2_62: 216340785
+      waddel dee sprite sheet 2_63: -324538697
+      waddel dee sprite sheet 2_64: -6771111
+      waddel dee sprite sheet 2_65: 371020361
+      waddel dee sprite sheet 2_66: -823166964
+      waddel dee sprite sheet 2_67: 476894074
+      waddel dee sprite sheet 2_68: -1709312623
+      waddel dee sprite sheet 2_69: -826291587
+      waddel dee sprite sheet 2_7: -1732033947
+      waddel dee sprite sheet 2_70: 2102039031
+      waddel dee sprite sheet 2_71: 2091489192
+      waddel dee sprite sheet 2_72: 1979493986
+      waddel dee sprite sheet 2_73: -625842162
+      waddel dee sprite sheet 2_74: -1970679947
+      waddel dee sprite sheet 2_75: 758660296
+      waddel dee sprite sheet 2_76: -342171023
+      waddel dee sprite sheet 2_77: 1237923622
+      waddel dee sprite sheet 2_78: 1163069196
+      waddel dee sprite sheet 2_79: -249189868
+      waddel dee sprite sheet 2_8: -1516657456
+      waddel dee sprite sheet 2_80: -1133962832
+      waddel dee sprite sheet 2_81: 1950989943
+      waddel dee sprite sheet 2_82: 1172293294
+      waddel dee sprite sheet 2_83: 1001731454
+      waddel dee sprite sheet 2_84: -1720653223
+      waddel dee sprite sheet 2_85: 1450244862
+      waddel dee sprite sheet 2_86: -458520683
+      waddel dee sprite sheet 2_87: -1807899487
+      waddel dee sprite sheet 2_88: 1079555454
+      waddel dee sprite sheet 2_89: 1558053207
+      waddel dee sprite sheet 2_9: 318486332
+      waddel dee sprite sheet 2_90: -1368638575
+      waddel dee sprite sheet 2_91: 782455270
+      waddel dee sprite sheet 2_92: -957232500
+      waddel dee sprite sheet 2_93: -193310995
+      waddel dee sprite sheet 2_94: 1585776705
+      waddel dee sprite sheet 2_95: -1681698675
+      waddel dee sprite sheet 2_96: 1323156811
+      waddel dee sprite sheet 2_97: 1610377335
+      waddel dee sprite sheet 2_98: 562708222
+      waddel dee sprite sheet 2_99: 1619616707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
