@@ -53,6 +53,8 @@ public class Player : MonoBehaviour
 
         if (grounded())
             jumps = 0;
+        else if (body.velocity.y <= 0)
+            stomp();
 
         if ((jumps < maxJumps && Input.GetKeyDown(KeyCode.Space)) || (maxJumps == 0 && grounded()))
         {
@@ -65,7 +67,20 @@ public class Player : MonoBehaviour
     }
 
 
-    private bool grounded()
+    public void stomp()
+    {
+        //RaycastHit2D raycastHit2D = Physics2D.BoxCast(new Vector2(hitbox.bounds.center.x, -hitbox.bounds.extents.y), new Vector2(hitbox.bounds.size.x, hitbox.bounds.size.y / 2), 0, Vector2.down, 0.1f, layermask);
+        RaycastHit2D raycastHit2D = Physics2D.BoxCast(hitbox.bounds.center, hitbox.bounds.size, 0, Vector2.down, 0.1f, LayerMask.GetMask("Enemy"));
+        if (raycastHit2D.collider != null)
+        {
+            body.velocity = new Vector2(0, jumpHeight * 0.8f);
+            jumps = 1;
+            transform.position = new Vector3(transform.position.x, raycastHit2D.point.y + hitbox.bounds.extents.y, transform.position.z);
+            raycastHit2D.collider.BroadcastMessage("Die", SendMessageOptions.DontRequireReceiver);
+        }
+    }
+
+    public bool grounded()
     {
         RaycastHit2D raycastHit2D = Physics2D.BoxCast(hitbox.bounds.center, hitbox.bounds.size, 0, Vector2.down, 0.1f, LayerMask.GetMask("Ground"));
         if (raycastHit2D.collider != null)

@@ -6,6 +6,7 @@ using UnityEngine;
 public class CameraBehavior : MonoBehaviour
 {
     public Transform Player;
+    public Rigidbody2D PlayerBody;
     public Vector3 offset = new Vector3(2, 2, -10);
     public float loadDistance = 20;
     public List<GameObject> objects;
@@ -15,6 +16,7 @@ public class CameraBehavior : MonoBehaviour
     void Start()
     {
         Player = GameObject.FindWithTag("Player").transform;
+        PlayerBody = Player.GetComponent<Rigidbody2D>();
         objects = GameObject.FindGameObjectsWithTag("enemy").ToList();
     }
 
@@ -24,7 +26,8 @@ public class CameraBehavior : MonoBehaviour
         if (GameManager.paused)
             return;
 
-        Vector3 centerPoint = new Vector3(Player.position.x, Player.position.y, 0);
+        offset = new Vector3(offset.x, PlayerBody.velocity.y / 2, -10);
+        Vector3 centerPoint = new Vector3(Player.position.x + PlayerBody.velocity.x / 2, Player.position.y, 0);
         Vector3 newPosition = centerPoint + offset;
         transform.position = Vector3.SmoothDamp(transform.position, newPosition, ref velocity, 0.5f);
 

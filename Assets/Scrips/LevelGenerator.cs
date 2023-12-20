@@ -20,6 +20,7 @@ public class LevelGenerator : MonoBehaviour
     public Dictionary<TileType, TileBase> tileset = new Dictionary<TileType, TileBase>();
     public Dictionary<TileBase, TileType> tilesetReverse = new Dictionary<TileBase, TileType>();
     public int distance;
+    public float timer;
 
     [HideInInspector] public bool chunkMode; //should the generator create one tile per layer per time or make a section of the same tiles
     [HideInInspector] public int slopeLeftChance; //chance for an upward (left-facing) slope to appear
@@ -34,6 +35,7 @@ public class LevelGenerator : MonoBehaviour
     [HideInInspector] public Vector2Int cliffLeftRange; //minimum and maximum possible height of the cliff (chunk mode only)
     [HideInInspector] public Vector2Int cliffRightRange; //minimum and maximum possible height of the cliff (chunk mode only)
     [HideInInspector] public Vector2Int holeRange; //minimum and maximum possible length of the hole (chunk mode only)
+    [HideInInspector] public Vector2Int enemyRange; //minimum and maximum possible length of the hole (chunk mode only)
 
     public enum TileType
     {
@@ -74,6 +76,7 @@ public class LevelGenerator : MonoBehaviour
             else
                 Debug.Log($"Duplicate: {pair.Value}");
         }
+        timer = Random.Range((float)enemyRange.x, (float)enemyRange.y);
     }
 
     void FixedUpdate()
@@ -85,14 +88,17 @@ public class LevelGenerator : MonoBehaviour
             CreateTile();
             position1 = currentPosition;
         }
-        /*
-        if (camera.position.x - 50 - position2.x < 0)
+        timer -= Time.deltaTime;
+
+        if (timer <= 0)
         {
-            currentPosition = position2;
-            currentDirection = direction2;
-            CreateTile();
-            position2 = currentPosition;
-        }*/
+            Transform enemy = Instantiate(Resources.Load<GameObject>($"Prefabs/enemy_{Random.Range(0, 2)}")).transform;
+            Vector3 newPosition = tilemap.CellToWorld(new Vector3Int(currentPosition.x, currentPosition.y, 0));
+            enemy.position = new Vector3(newPosition.x, newPosition.y + 2, 0);
+            enemy.gameObject.layer = 8;
+            GameObject.Find("Main Camera").GetComponent<CameraBehavior>().objects.Add(enemy.gameObject);
+            timer = Random.Range((float)enemyRange.x, (float)enemyRange.y);
+        }
     }
 
     public void CreateTile()
