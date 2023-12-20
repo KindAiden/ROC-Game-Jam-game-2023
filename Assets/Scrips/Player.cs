@@ -83,8 +83,6 @@ public class Player : MonoBehaviour
     public bool grounded()
     {
         RaycastHit2D raycastHit2D = Physics2D.BoxCast(hitbox.bounds.center, hitbox.bounds.size, 0, Vector2.down, 0.1f, LayerMask.GetMask("Ground"));
-        if (raycastHit2D.collider != null)
-            transform.position = new Vector3(transform.position.x, raycastHit2D.point.y + hitbox.bounds.extents.y, transform.position.z);
         return raycastHit2D.collider != null;
     }
 }

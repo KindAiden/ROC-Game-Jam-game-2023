@@ -352,7 +352,7 @@ public class LevelGenerator : MonoBehaviour
 
     public void FillGround(Vector2Int offset)
     {
-        for (int i = 0; i < 20; i++)
+        for (int i = 0; i < 50; i++)
             tilemap.SetTile(new Vector3Int(currentPosition.x + offset.x, currentPosition.y - 1 - i + offset.y, 0), tileset[TileType.Ground]);
     }
 }
