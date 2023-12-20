@@ -20,6 +20,10 @@ public class Buttons : MonoBehaviour
     {
         SceneManager.LoadScene("creddits");
     }
+    public void menu()
+    {
+        SceneManager.LoadScene("Main Menu");
+    }
 
     public void Quit()
     {

@@ -26,7 +26,7 @@ public class CameraBehavior : MonoBehaviour
         if (GameManager.paused)
             return;
 
-        offset = new Vector3(offset.x, PlayerBody.velocity.y / 2, -10);
+        offset = new Vector3(offset.x, Mathf.Clamp(PlayerBody.velocity.y / 2, -5, 5), -10);
         Vector3 centerPoint = new Vector3(Player.position.x + PlayerBody.velocity.x / 2, Player.position.y, 0);
         Vector3 newPosition = centerPoint + offset;
         transform.position = Vector3.SmoothDamp(transform.position, newPosition, ref velocity, 0.5f);

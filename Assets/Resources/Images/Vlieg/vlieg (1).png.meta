@@ -1,0 +1,3691 @@
+fileFormatVersion: 2
+guid: 28b182ab2e0c1fd42893dcba1b081ddc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 144
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vlieg (1)_0
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 4007
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23701596013671c408ad811b06615c01
+      internalID: 898870346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_1
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 4007
+        width: 75
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ffda1dd1ef2034ea16c7d88c9c001e
+      internalID: -1097199414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_2
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 4009
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0206805f41a7cdd4590a22511a657a8c
+      internalID: -198715684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_3
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 4009
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dd2397cacfef344be44f09b5be1c49
+      internalID: 1394044036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_4
+      rect:
+        serializedVersion: 2
+        x: 3685
+        y: 4007
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099947f3cce105d4f821e62b8bbc391a
+      internalID: 1423678783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_5
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 4009
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d226b32c81d79744aa0c83c5e66182bd
+      internalID: -516163675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_6
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 4007
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a74b04d5b2a53c419cd44160ad98f17
+      internalID: -1657017578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_7
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3524
+        width: 574
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627a347d4d4b2984c9beffa171c29de3
+      internalID: -382238847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_8
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 3667
+        width: 192
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab4126c7fd24f243ac00b475e427881
+      internalID: -49446325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_9
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 3789
+        width: 12
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229015d715d701a46904ba2529101748
+      internalID: -377769033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_10
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 3984
+        width: 4
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ab1cafc2875f44cb4587dce4fd0acc
+      internalID: -1299584146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_11
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3976
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89deb8409b8998b4a9e6474f470f8d39
+      internalID: 942664415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3543
+        width: 499
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b458ed98040d124cb5c97e55d3078bc
+      internalID: 775490305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 3508
+        width: 407
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edbfd5af844f674c8637c9c86dc0729
+      internalID: 229916054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_14
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 3506
+        width: 258
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8aa14ce2c9efe644973aa12ec936b35
+      internalID: 1151988337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_15
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 3824
+        width: 8
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba52a5762b96e174095e720f6b3375d5
+      internalID: -788959261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_16
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 3830
+        width: 25
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dd20ca0f294c2479d1f0240b1e5f21
+      internalID: 1820600803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_17
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3925
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a407af9ca73cbd94fb3b1871b3102633
+      internalID: 2033076736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_18
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 3785
+        width: 7
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0863426174ebbf145a6e9d9d6aafe453
+      internalID: 288873088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_19
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 3887
+        width: 4
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af58b4dd26cb06488ddefd333f94ccf
+      internalID: 1303949542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_20
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3842
+        width: 6
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5b333bee6dea344b83a183b9fcbedb
+      internalID: -575273665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 3779
+        width: 246
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bdf55dace3fad44952f1a174b4721c
+      internalID: -776776676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_22
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 3848
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c07c02f6cdbb44ca4d1a36c70610fc
+      internalID: 637769261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_23
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 3860
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51f162c62982b64ba3098178cf8d645
+      internalID: -351058754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_24
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 3834
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65055ff1bdd8f9f48b83fdb8ae542f69
+      internalID: 221703631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_25
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 3838
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd2d79a7979e7547bb0393e6e054886
+      internalID: -155674475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_26
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 3826
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3d3ed8c9a911449a9ed7021bf8fe1c
+      internalID: -582950079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_27
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 3740
+        width: 6
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73232a68227dbd54e9ae0c1c8129e2af
+      internalID: 1445873239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_28
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 3819
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e6b84668a56e64cab8175f78c9e157
+      internalID: 1150378057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_29
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 3824
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95fa0e6811e5af49a593ac795a0a3f5
+      internalID: -1932000339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_30
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 3819
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de340dc342a0c1e478a4d930bc4ff835
+      internalID: 1959689661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_31
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 3793
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0cdaeee46566e4387227dc7e6c4703
+      internalID: -1272193111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_32
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 3799
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33278675260b66446b7f386b738d97fc
+      internalID: -221768276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_33
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 3765
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b880f72c1780246a160231e8229e30
+      internalID: -1803051770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_34
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 3508
+        width: 217
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b220e176224868b4899bcd8383598d9a
+      internalID: 1917104069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_35
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 3587
+        width: 4
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f15cc8486619d342822ca9777d35364
+      internalID: 192969964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_36
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 3614
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5740c7ef3e09feb4d92e54dcf8c80de5
+      internalID: 943631492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_37
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 3528
+        width: 6
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e090e88b5e50284c896ad0db15d627a
+      internalID: -882742295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_38
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 3508
+        width: 8
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f5a8f1fd4951c43b87eedda9397491
+      internalID: -1081641912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_39
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 3508
+        width: 10
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57ebfbf07fe72449a04cfaf0e051c61
+      internalID: 1810245025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_40
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 3488
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c08dd5f9885e2b48a675c9274150918
+      internalID: -634158563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_41
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 3488
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c0bb2568c81a948843eec6699ecaf9
+      internalID: -1528473048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_42
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 3490
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9892c482af01a984990f6675c143cf74
+      internalID: -1269735026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_43
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 3490
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ddba5cf8ab55c41b36602a96936e89
+      internalID: -416153052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_44
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 3490
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e4a4c7217323248acb7c4eb8135c58
+      internalID: 1852263055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_45
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 3488
+        width: 67
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dec7c34fc4a4b04aad9ea7d4cf0d2ea
+      internalID: 1941201615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_46
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 3488
+        width: 122
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f16cba1ea0b4c14eb15ba612561f010
+      internalID: 470070128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_47
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 3064
+        width: 258
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47f52bf2770f2e458a1a1dbe292af2e
+      internalID: -628682052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_48
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 3064
+        width: 265
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2f6019ec056064895ffc0dd37a25d1
+      internalID: 647974037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_49
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 3064
+        width: 265
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a5c0d8b73fe174ea504767be0f194a
+      internalID: 816534622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_50
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 3064
+        width: 267
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11bd31309bfb6844a38ba12e78cafd0
+      internalID: -982293499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_51
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 3064
+        width: 283
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119f6931829e75143a177fdaf1c20b87
+      internalID: -296774731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_52
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 3044
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6af66c60e6e71e4b8f65989adb4c8db
+      internalID: 1732282662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_53
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 3046
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fada1421b8adf54fb747f347664c079
+      internalID: -1558892431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_54
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 3046
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f36a0d16d3e4b4b9369eca10c5eff4
+      internalID: 528299282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_55
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 3044
+        width: 57
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd9c577f318016438bc6bbaadbf25c6
+      internalID: 1883139167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_56
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 3046
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fc58ba761526e438ef42a9b8353f95
+      internalID: 241755650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_57
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 3046
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa041d2d525f8ea498a9469c9c7084e8
+      internalID: -1995540206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_58
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2806
+        width: 285
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d71c9b9e0b028141a3092ebf85fff84
+      internalID: -293892391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_59
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2804
+        width: 267
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925db43f0f0e53b4b92f00b4729b6cb9
+      internalID: 1968064213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_60
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 2804
+        width: 260
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40963e3be5f6944b925f5480ecee4f2
+      internalID: -248612393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_61
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 2796
+        width: 271
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9746f8b2fc0324146b986be197e66aa6
+      internalID: 2102010045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_62
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2808
+        width: 283
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bd041f7801ab94bb25bd933830c697
+      internalID: -70227229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_63
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 2808
+        width: 291
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c04f8ba0246d9d49a24a34b7ca78deb
+      internalID: 1789723060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_64
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 2794
+        width: 266
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1273abde8252aa94fa44f10a1629e7fc
+      internalID: 628307703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_65
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 2794
+        width: 257
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f41b8cefaf62f4ab0fe9851c6b4791
+      internalID: -171139985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_66
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 2792
+        width: 267
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01edb715c576e2c4ab237463306529e5
+      internalID: -139801747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_67
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 2794
+        width: 270
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3340732b02ff97a48ae8840e0428890e
+      internalID: 1230160199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_68
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 2794
+        width: 274
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df06a5402caa5614fb2f4406e4c152ca
+      internalID: -886624466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_69
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 2792
+        width: 269
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef2ea27b4f54ad42937c5d608841f52
+      internalID: -195028978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_70
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 2772
+        width: 61
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136b758e17cefba43adaaf963be2da56
+      internalID: -1433223808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_71
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 2776
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2657f09ab48a6545a29a35e1c03d63c
+      internalID: -287721426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_72
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 2776
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec51c2d4a6feed469932b9b05a441b0
+      internalID: -624219716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_73
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 2772
+        width: 73
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8621cdb28fa3dc9459bfd64e6365deab
+      internalID: 1072811159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_74
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 2776
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb32e06d762d2b44ad5379bf98a6a65
+      internalID: -699587152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_75
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 2542
+        width: 261
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc69d55f624c904ea0bc8e0f3d370a3
+      internalID: 777521399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_76
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 2550
+        width: 265
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9076fb671df0d6149967583e6aa1f28b
+      internalID: -2108173873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_77
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 2558
+        width: 303
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d9436a886405144827fc4912bde0ab
+      internalID: -902952032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_78
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 2558
+        width: 303
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e43dbbc33404841831aae91b831aec
+      internalID: 725016445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_79
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 2560
+        width: 307
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca62ca5caa185b74bb76be8c043b8e03
+      internalID: -1455969119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_80
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 2523
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f252ddaace4765408937b986bce328c
+      internalID: 1967717558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_81
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 2523
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05508cff4d8c8724998a2b3367a407bc
+      internalID: -359736449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_82
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 2527
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32bac708d00e034c9f22ec85014c9b4
+      internalID: 809496631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_83
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 2397
+        width: 98
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09238f9188427248be2ecada9350c98
+      internalID: 135517577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_84
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 2238
+        width: 521
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88948641811e554eab9d23fb8eb417b
+      internalID: 844110771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_85
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2183
+        width: 572
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0f8bf055ebb0d4f9e117ea5a3ec476
+      internalID: 938637960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_86
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 2208
+        width: 394
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda24be8efb719444966b84f4a93d55f
+      internalID: -1537826312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_87
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 2389
+        width: 65
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6743d73983186864295f8f286b5377b5
+      internalID: -1703782054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_88
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 2377
+        width: 181
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1741cb5bb878574d993eddbbcd92d43
+      internalID: -24326429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_89
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 2369
+        width: 195
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a03c16feb686d48b6ac90860031bfb
+      internalID: 1821987372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_90
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 2358
+        width: 201
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7491b21e63bb74a976abd967c4a14e
+      internalID: -75911917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_91
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2362
+        width: 47
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea11361e71d3b34187c54f394dd947d
+      internalID: -1937763553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_92
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2350
+        width: 155
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb4305715589ed47a911a3de62d65a9
+      internalID: -2040464809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_93
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 2346
+        width: 175
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1882bdcf1e68a1c43851ec854fbdda3a
+      internalID: 877777159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_94
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 2332
+        width: 154
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a6a29b85200cb4495a809626e1f7a3
+      internalID: -1257991564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_95
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 2326
+        width: 93
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3833b747b43633048b25c08803feae4b
+      internalID: 1954820804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_96
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2163
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db43af51fbcd4a44b2555e79638815f
+      internalID: 383304987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_97
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 2163
+        width: 73
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c138ee7687c7104d816764d04c88f93
+      internalID: 1272666203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_98
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 2163
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5552afc0db0e8b4e88ed010d253d8ae
+      internalID: -673702409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_99
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1897
+        width: 350
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24b32cdc30c8ce48bdbe156c3d7ff06
+      internalID: -306559223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_100
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1774
+        width: 331
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187f7f32527a5ff4e8d651dd92a0333c
+      internalID: 129390823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_101
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1772
+        width: 334
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c332bf5c66cfd6a4baf521bc8f0b26b1
+      internalID: -1832735155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_102
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1770
+        width: 338
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1706fff2fdba24e88cd164bba747ae
+      internalID: 624186712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_103
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1766
+        width: 289
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f31dff7a33535449b47faf8b6383d83
+      internalID: -1657777900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_104
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1750
+        width: 273
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a0499bdc50a8e4d86ef9a1ec490671
+      internalID: -390316749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_105
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 1772
+        width: 269
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a489ef8198fdb164bb48649c62dc75f0
+      internalID: -2101433790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_106
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1758
+        width: 268
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b58ca37d698d974480565a870fc8200
+      internalID: 206338703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_107
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 1772
+        width: 265
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a59867ed8d1b64b8e460210d405c71
+      internalID: -270962855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_108
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 1730
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff014a591ce3f340952ce81b3b73101
+      internalID: 1372183701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_109
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 1730
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d705921c00775b24bb8c35fd44c8c41a
+      internalID: 1614074466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_110
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1408
+        width: 260
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6412b322371fd4a408173bf405076478
+      internalID: -718369323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_111
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 1412
+        width: 248
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974bee095117f2745914ff5616a14ba3
+      internalID: -723874368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_112
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 1414
+        width: 242
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefe94afbcef9524597a830ac906c771
+      internalID: -1333640923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_113
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 1414
+        width: 262
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d40c03f3ad364409b5f2ec96155075
+      internalID: -1098307068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_114
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 1414
+        width: 376
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486ac1816ac30b848be343953244f145
+      internalID: -61264375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_115
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1361
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff072e1d30120de4a940c6b563f234f6
+      internalID: 1894887188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_116
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 1359
+        width: 73
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3b85844f4e67d43bc73bc536487597
+      internalID: 490384043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_117
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 1361
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cb154af3d6ea3428e2fe3a8deff62b
+      internalID: 2010219972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_118
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1166
+        width: 522
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403a73daf73efb441829566b0cc65a9e
+      internalID: -597763146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_119
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 885
+        width: 245
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f126cd4a886bc0469d1760634b9d11f
+      internalID: 1226876445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_120
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 887
+        width: 240
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3a5a488e35d6049b00b0d29735ea9e
+      internalID: -2044553347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_121
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 885
+        width: 368
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070c147fae4eebb479180dc818299725
+      internalID: 2040759872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_122
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 887
+        width: 407
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06cd002fd65c684ebfb7b2a88ef6f20
+      internalID: 213536723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_123
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 883
+        width: 280
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0603d4109fb177c4fa8b0a4814fb4555
+      internalID: -716763613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_124
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 867
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb9adb20a4d2cb408c2296920febec9
+      internalID: 1826104601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_125
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 598
+        width: 264
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c7d44efd7b6fe47943de300bd2a1f7
+      internalID: -1537152088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_126
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 598
+        width: 246
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cebf229370c4bb4d92444a5233aea1a
+      internalID: -1660158394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_127
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 600
+        width: 241
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7b1ed27e74ad34592f75009573a6de
+      internalID: 685797454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_128
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 604
+        width: 289
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b7ced43c23a86478db235c106ccdd2
+      internalID: 1708545191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_129
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 604
+        width: 489
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ded6e372fa19b438e6e2da5c37fe27
+      internalID: 1992255554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_130
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 598
+        width: 531
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009ad4cdf1d49f8479cfb54979ea4cbc
+      internalID: 882425379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_131
+      rect:
+        serializedVersion: 2
+        x: 3788
+        y: 578
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b7f2830b1202343bf5e230d462643d
+      internalID: -325616675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_132
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 342
+        width: 246
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c7796d913cb9f4b8f42ca9f76cfdb2
+      internalID: 780808766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_133
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 344
+        width: 358
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b0d38032cf8854fb66b167656be223
+      internalID: -693183321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_134
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 344
+        width: 356
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2483a209dce64439408a9f3d9266a9
+      internalID: 471923355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_135
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 344
+        width: 370
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91096d12510151b4ba5f1970a9f2c92c
+      internalID: -1047481371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_136
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 342
+        width: 358
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e90bfb49945de4dbed986206fad9a0
+      internalID: 1763907848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_137
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 381
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e024775d8c425db48aab497d643ef6b8
+      internalID: -741268432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_138
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 342
+        width: 313
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4f5a258f5aed2428df1b0eb4b9bb80
+      internalID: -144153743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_139
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 344
+        width: 281
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bced480bb79c2d4f9681a3f9079c899
+      internalID: -1417996338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_140
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 342
+        width: 269
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f531e3661e76c4449f23cfc505c521a
+      internalID: -1024135617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_141
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 336
+        width: 253
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f93729e45756847a8a73db29c3f622
+      internalID: 1280056145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_142
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 81
+        width: 240
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82ad03ed8c8e4445bc33379e77b5dbe
+      internalID: 264069529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_143
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 317
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5409ab317b942349b9fc7414ebb4610
+      internalID: 1844335406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_144
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 321
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b731745a1b4cc04995b111508cd9cf4
+      internalID: -471579038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_145
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 283
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1ebf6bada177f4cac33b6b1fa30fc1
+      internalID: -359779577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_146
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 285
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aba390988565b4b85a9844c14a4b34
+      internalID: -336985963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_147
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 31
+        width: 249
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ba458518be29c4481f1f6b9ae13e50
+      internalID: -187077727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_148
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 269
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf09083ad60b31499001a7379f9336c
+      internalID: -1845244218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_149
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 271
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9687fe6d959d847ad0df6efe1bc4e9
+      internalID: -2136197493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_150
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 83
+        width: 234
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dcc0b18075b024cb7eb847d4d29ff6
+      internalID: -1295596312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_151
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 151
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d88f39f49e6320419b7fef3e7083842
+      internalID: 1489874291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_152
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 83
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb046cce1cf9af545863c32f73270b20
+      internalID: 2019940369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_153
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d54970706a429469dae3ad92c5e28e
+      internalID: 278765760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_154
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 33
+        width: 291
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e4b5ab84c8eba47abadc2da5f2dff3
+      internalID: 416432053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_155
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 20
+        width: 272
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c15fd3eeb4bff418ba0614a94a64bb
+      internalID: -590351254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_156
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 2
+        width: 276
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117d81150d8ee8d4d8d6005b56ef8266
+      internalID: 236753841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_157
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 136
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40b734a50c344d46ba2f8447498c507
+      internalID: 989711184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_158
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 136
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa76b050da7d9804e8a83765b993211f
+      internalID: 1965732611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_159
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 69
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2871b635b3e94c4aab8a189c0df3289
+      internalID: -1144059800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_160
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 73
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07571274618cee943b123cb89e2c32c3
+      internalID: -420807088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vlieg (1)_161
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 65
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bccbfc1eb5e94440bb28645cf1e5181
+      internalID: 718828294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vlieg (1)_0: 898870346
+      vlieg (1)_1: -1097199414
+      vlieg (1)_10: -1299584146
+      vlieg (1)_100: 129390823
+      vlieg (1)_101: -1832735155
+      vlieg (1)_102: 624186712
+      vlieg (1)_103: -1657777900
+      vlieg (1)_104: -390316749
+      vlieg (1)_105: -2101433790
+      vlieg (1)_106: 206338703
+      vlieg (1)_107: -270962855
+      vlieg (1)_108: 1372183701
+      vlieg (1)_109: 1614074466
+      vlieg (1)_11: 942664415
+      vlieg (1)_110: -718369323
+      vlieg (1)_111: -723874368
+      vlieg (1)_112: -1333640923
+      vlieg (1)_113: -1098307068
+      vlieg (1)_114: -61264375
+      vlieg (1)_115: 1894887188
+      vlieg (1)_116: 490384043
+      vlieg (1)_117: 2010219972
+      vlieg (1)_118: -597763146
+      vlieg (1)_119: 1226876445
+      vlieg (1)_12: 775490305
+      vlieg (1)_120: -2044553347
+      vlieg (1)_121: 2040759872
+      vlieg (1)_122: 213536723
+      vlieg (1)_123: -716763613
+      vlieg (1)_124: 1826104601
+      vlieg (1)_125: -1537152088
+      vlieg (1)_126: -1660158394
+      vlieg (1)_127: 685797454
+      vlieg (1)_128: 1708545191
+      vlieg (1)_129: 1992255554
+      vlieg (1)_13: 229916054
+      vlieg (1)_130: 882425379
+      vlieg (1)_131: -325616675
+      vlieg (1)_132: 780808766
+      vlieg (1)_133: -693183321
+      vlieg (1)_134: 471923355
+      vlieg (1)_135: -1047481371
+      vlieg (1)_136: 1763907848
+      vlieg (1)_137: -741268432
+      vlieg (1)_138: -144153743
+      vlieg (1)_139: -1417996338
+      vlieg (1)_14: 1151988337
+      vlieg (1)_140: -1024135617
+      vlieg (1)_141: 1280056145
+      vlieg (1)_142: 264069529
+      vlieg (1)_143: 1844335406
+      vlieg (1)_144: -471579038
+      vlieg (1)_145: -359779577
+      vlieg (1)_146: -336985963
+      vlieg (1)_147: -187077727
+      vlieg (1)_148: -1845244218
+      vlieg (1)_149: -2136197493
+      vlieg (1)_15: -788959261
+      vlieg (1)_150: -1295596312
+      vlieg (1)_151: 1489874291
+      vlieg (1)_152: 2019940369
+      vlieg (1)_153: 278765760
+      vlieg (1)_154: 416432053
+      vlieg (1)_155: -590351254
+      vlieg (1)_156: 236753841
+      vlieg (1)_157: 989711184
+      vlieg (1)_158: 1965732611
+      vlieg (1)_159: -1144059800
+      vlieg (1)_16: 1820600803
+      vlieg (1)_160: -420807088
+      vlieg (1)_161: 718828294
+      vlieg (1)_17: 2033076736
+      vlieg (1)_18: 288873088
+      vlieg (1)_19: 1303949542
+      vlieg (1)_2: -198715684
+      vlieg (1)_20: -575273665
+      vlieg (1)_21: -776776676
+      vlieg (1)_22: 637769261
+      vlieg (1)_23: -351058754
+      vlieg (1)_24: 221703631
+      vlieg (1)_25: -155674475
+      vlieg (1)_26: -582950079
+      vlieg (1)_27: 1445873239
+      vlieg (1)_28: 1150378057
+      vlieg (1)_29: -1932000339
+      vlieg (1)_3: 1394044036
+      vlieg (1)_30: 1959689661
+      vlieg (1)_31: -1272193111
+      vlieg (1)_32: -221768276
+      vlieg (1)_33: -1803051770
+      vlieg (1)_34: 1917104069
+      vlieg (1)_35: 192969964
+      vlieg (1)_36: 943631492
+      vlieg (1)_37: -882742295
+      vlieg (1)_38: -1081641912
+      vlieg (1)_39: 1810245025
+      vlieg (1)_4: 1423678783
+      vlieg (1)_40: -634158563
+      vlieg (1)_41: -1528473048
+      vlieg (1)_42: -1269735026
+      vlieg (1)_43: -416153052
+      vlieg (1)_44: 1852263055
+      vlieg (1)_45: 1941201615
+      vlieg (1)_46: 470070128
+      vlieg (1)_47: -628682052
+      vlieg (1)_48: 647974037
+      vlieg (1)_49: 816534622
+      vlieg (1)_5: -516163675
+      vlieg (1)_50: -982293499
+      vlieg (1)_51: -296774731
+      vlieg (1)_52: 1732282662
+      vlieg (1)_53: -1558892431
+      vlieg (1)_54: 528299282
+      vlieg (1)_55: 1883139167
+      vlieg (1)_56: 241755650
+      vlieg (1)_57: -1995540206
+      vlieg (1)_58: -293892391
+      vlieg (1)_59: 1968064213
+      vlieg (1)_6: -1657017578
+      vlieg (1)_60: -248612393
+      vlieg (1)_61: 2102010045
+      vlieg (1)_62: -70227229
+      vlieg (1)_63: 1789723060
+      vlieg (1)_64: 628307703
+      vlieg (1)_65: -171139985
+      vlieg (1)_66: -139801747
+      vlieg (1)_67: 1230160199
+      vlieg (1)_68: -886624466
+      vlieg (1)_69: -195028978
+      vlieg (1)_7: -382238847
+      vlieg (1)_70: -1433223808
+      vlieg (1)_71: -287721426
+      vlieg (1)_72: -624219716
+      vlieg (1)_73: 1072811159
+      vlieg (1)_74: -699587152
+      vlieg (1)_75: 777521399
+      vlieg (1)_76: -2108173873
+      vlieg (1)_77: -902952032
+      vlieg (1)_78: 725016445
+      vlieg (1)_79: -1455969119
+      vlieg (1)_8: -49446325
+      vlieg (1)_80: 1967717558
+      vlieg (1)_81: -359736449
+      vlieg (1)_82: 809496631
+      vlieg (1)_83: 135517577
+      vlieg (1)_84: 844110771
+      vlieg (1)_85: 938637960
+      vlieg (1)_86: -1537826312
+      vlieg (1)_87: -1703782054
+      vlieg (1)_88: -24326429
+      vlieg (1)_89: 1821987372
+      vlieg (1)_9: -377769033
+      vlieg (1)_90: -75911917
+      vlieg (1)_91: -1937763553
+      vlieg (1)_92: -2040464809
+      vlieg (1)_93: 877777159
+      vlieg (1)_94: -1257991564
+      vlieg (1)_95: 1954820804
+      vlieg (1)_96: 383304987
+      vlieg (1)_97: 1272666203
+      vlieg (1)_98: -673702409
+      vlieg (1)_99: -306559223
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
